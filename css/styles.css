@@ -91,7 +91,7 @@ body {
 /* ---HERO--- */
 
 .hero {
-  background-color: teal;
+  background-color: var(--footer-bgc);
 }
 
 .hero-title {
